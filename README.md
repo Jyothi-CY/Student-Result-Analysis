@@ -36,12 +36,12 @@ pip install numpy pandas matplotlib seaborn jupyter
 ```
 
 ## Project Structure
-```
+
 Student-Result-Analysis/
 ├── Student_score_analysis.ipynb    # Main analysis notebook
 ├── Student_score_analysis.csv      # Dataset file
 └── README.md                       # Project documentation
-```
+
 
 ## Cloning the Repository
 
@@ -67,8 +67,8 @@ cd Student-Result-Analysis
    ```
 4. **Open the analysis notebook**: `Student_score_analysis.ipynb`
 5. **Update the dataset path** in the notebook:
-   ```python
    df = pd.read_csv("D:/dataset_FDS/Student_score_analysis.csv")
+   ```
    df = pd.read_csv("path to your dataset")
    ```
 6. **Run all cells** to execute the complete analysis
