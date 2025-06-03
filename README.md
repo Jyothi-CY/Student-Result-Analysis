@@ -36,12 +36,7 @@ pip install numpy pandas matplotlib seaborn jupyter
 ```
 
 ## Project Structure
-
-Student-Result-Analysis/
-├── Student_score_analysis.ipynb    # Main analysis notebook
-├── Student_score_analysis.csv      # Dataset file
-└── README.md                       # Project documentation
-
+![image](https://github.com/user-attachments/assets/6256380b-1b80-4d7b-8072-5dc15a002e0f)
 
 ## Cloning the Repository
 
